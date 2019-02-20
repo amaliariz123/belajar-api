@@ -1,0 +1,124 @@
+{
+"Mahasiswa" : 
+[{
+  "id": 1,
+  "name": "Regan Beldam",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Roxy Arnecke",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Si Everard",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Kyle Tuffley",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Zilvia MacDougal",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Temp Munkley",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Marchall Borghese",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Thorny Palia",
+  "gender": "Male"
+}, {
+  "id": 9,
+  "name": "Isacco Plewman",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Damiano Jouning",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Berkeley Breach",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Izaak Quadrio",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Kordula MacCrosson",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Gradeigh Diwell",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Bernadine Haw",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Toby Benezeit",
+  "gender": "Male"
+}, {
+  "id": 17,
+  "name": "Hayward Paunton",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Reinold Tinham",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Ania Linger",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Yuri Eastlake",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Meaghan Purry",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Christa Kubasek",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Esdras Stidston",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Wittie Mabbs",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Misty Mulvihill",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Fifine Kintish",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "name": "Towney Brickstock",
+  "gender": "Male"
+}, {
+  "id": 28,
+  "name": "Casper Burling",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Georgeanne Ridpath",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Sutton Kewzick",
+  "gender": "Male"
+}]
+}
